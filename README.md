@@ -4,6 +4,7 @@
 Tenho experiência em planejamento e desenvolvimento de projetos, incluindo definição de escopo, organização de atividades e criação de protótipos de UI/UX utilizando o Figma. Estou sempre em busca de novas ferramentas para aprender e aprimorar minhas habilidades em ambientes dinâmicos e colaborativos.</p>
 </div>
 
+
 <h3 align="left">Connect with me!</h3>
 
 ## 🌐 Socials:
