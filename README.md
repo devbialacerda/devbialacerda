@@ -1,9 +1,31 @@
-## Oii! Eu sou a Beatriz Lacerda 
-<div>
-  <p>Sou uma estudante motivada com formação técnica em Administração e atualmente estou me especializando em Desenvolvimento Web Full-Stack na PROA. Tenho interesse em gestão de projetos, tecnologia e inovação, e gosto de organizar tarefas, trabalhar em equipe e resolver problemas.
-Tenho experiência em planejamento e desenvolvimento de projetos, incluindo definição de escopo, organização de atividades e criação de protótipos de UI/UX utilizando o Figma. Estou sempre em busca de novas ferramentas para aprender e aprimorar minhas habilidades em ambientes dinâmicos e colaborativos.</p>
-</div>
+## Olá! Eu sou a Beatriz Lacerda 👋
 
+<div>
+🎓 Estudante de Ciência da Computação na FIAP
+💻 Formação em Programação e Desenvolvimento de Sistemas pelo Instituto PROA
+🚀 Jovem Aprendiz na Galapagos Capital
+
+Tenho interesse em desenvolvimento de software, Inteligência Artificial Generativa e automação de processos. Busco aplicar tecnologia para resolver problemas reais, otimizar tarefas e desenvolver soluções eficientes.
+
+🛠️ Tecnologias e ferramentas
+- Programação: Python, JavaScript
+- Desenvolvimento Web: HTML, CSS, React
+- Automação: Playwright
+- IA: ferramentas de IA generativa
+- Ferramentas: Git, GitHub e Excel
+
+📂 Projetos
+Neste perfil, compartilho projetos de desenvolvimento web e programação desenvolvidos durante minha jornada de aprendizado.
+
+Tenho interesse em expandir meu portfólio com projetos de automação, inteligência artificial e desenvolvimento de soluções baseadas em dados.
+
+🎯 Objetivo
+Evoluir na área de Engenharia de Software e Inteligência Artificial, aprendendo continuamente e contribuindo para a construção de soluções tecnológicas.
+
+📫 Contato
+- LinkedIn: https://www.linkedin.com/in/beatriz-lacerda-628635392</p>
+- E-mail: bialrodrigues2007@gmail.com</p>
+</div>
 
 <h3 align="left">Connect with me!</h3>
 
