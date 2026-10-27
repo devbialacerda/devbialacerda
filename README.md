@@ -22,11 +22,6 @@ Tenho interesse em expandir meu portfólio com projetos de automação, intelig�
 🎯 Objetivo
 Evoluir na área de Engenharia de Software e Inteligência Artificial, aprendendo continuamente e contribuindo para a construção de soluções tecnológicas.
 
-📫 Contato
-- LinkedIn: https://www.linkedin.com/in/beatriz-lacerda-628635392</p>
-- E-mail: bialrodrigues2007@gmail.com</p>
-</div>
-
 <h3 align="left">Connect with me!</h3>
 
 ## 🌐 Socials:
